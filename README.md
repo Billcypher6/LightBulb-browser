@@ -1,6 +1,8 @@
-UNDER CONSTUCTION
+# UNDER CONSTUCTION
 
-Lightbulb browser is a fork of R3dfox made specifically for Windows Vista, 7, and 8 compatibility. 
+Lightbulb browser is a fork of R3dfox made specifically for Windows Vista, 7, and 8 compatibility.
+
+**Project is paused. It will be work on later.**
 
 
 
